@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eEaBlaVxFr+DVTubEWQeubCz0KK8IiJqlKstQ3gbqjY=",
+  "Source": "GestaoEstoqueAPI",
+  "BasePath": "_content/GestaoEstoqueAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
